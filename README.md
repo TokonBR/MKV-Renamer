@@ -34,16 +34,6 @@ Execute `CRIAR_EXE.bat` no Windows. O script instala o PyInstaller e gera o exec
 
 Selecione um arquivo ou uma pasta, escolha a fonte de vídeo e as demais opções, confira a prévia e inicie a operação. Para preservar os arquivos originais, escolha o modo de cópia para a pasta de saída.
 
-## Publicar no GitHub
-
-1. Crie um repositório novo no GitHub chamado `MKV-Renamer`.
-2. Envie os arquivos **da raiz** deste projeto (README, código, scripts e `.github`).
-3. Crie uma release com a tag `v1.0.0` se desejar disponibilizar uma versão identificada.
-
-## Licença
-
-Nenhuma licença de distribuição foi definida neste pacote. Adicione um arquivo `LICENSE` com a licença escolhida antes de autorizar formalmente a reutilização do código por terceiros.
-
 ## Licença
 
 Distribuído sob a [Licença MIT](LICENSE). © 2026 Tokon.
