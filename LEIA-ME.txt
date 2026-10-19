@@ -1,0 +1,6 @@
+MKV Renamer v1.0.0
+Resultado final: SUCESSO em verde, ERRO em vermelho. Linhas da lista verdes para arquivos concluídos e vermelhas para erros. Barra percentual 0-100% mantida.
+
+CORRECAO: porcentagem 0% a 100% agora aparece tambem na linha de status Copiando e renomeando, visivel durante a copia.
+
+Nova tela Sobre: clique no botao Sobre no topo da janela. Tema escuro, versao 1.0.0 e credito By Tokon.

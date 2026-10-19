@@ -1,0 +1,2 @@
+# Opcional: suporte a arrastar e soltar arquivos na interface
+tkinterdnd2
